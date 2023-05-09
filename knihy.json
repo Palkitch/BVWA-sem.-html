@@ -1,0 +1,50 @@
+[
+  {
+    "image": "book_images/desetKroku.jpg",
+    "title": "Deset kroků k vyšší sebedůvěře Začněte si věřit!",
+    "description": "Klíčová slova: Osobní rozvoj;Komunikační a manažerské dovednosti;Deset kroků k vyšší sebedůvěře;Schiraldi Glenn R.",
+    "availability": "1"
+  },
+  {
+    "image": "book_images/manzelstvi.jpg",
+    "title": "Sedm cest k šťastnému manželství",
+    "description": "Klíčová slova: Beletrie;Česká současná beletrie;Sedm cest k šťastnému manželství;Covey Stephen R.",
+    "availability": "1"
+  },
+  {
+    "image": "book_images/kamenictvi.jpg",
+    "title": "Kamenictví Tradice z pohledu dneška, 2. vydání",
+    "description": "Klíčová slova: Stavebnictví a architektura;Architektura;Kamenictví;Jundrovský R.",
+    "availability": ""
+  },
+  {
+    "image": "book_images/povodne.jpg",
+    "title": "Památky a povodně Prevence a sanace",
+    "description": "Klíčová slova: Stavebnictví a architektura, Stavebnictví, Památky a povodně;Nedvědová.",
+    "availability": "1"
+  },
+  {
+    "image": "book_images/harry_potter.jpg",
+    "title": "Harry Potter a kámen mudrců",
+    "description": "Klíčová slova: Fantasy, J. K. Rowling",
+    "availability": "1"
+  },
+  {
+    "image": "book_images/50odstinu_sedi.jpg",
+    "title": "50 odstínů šedi",
+    "description": "Klíčová slova: Romantika, drama, E. L. James",
+    "availability": "1"
+  },
+  {
+    "image": "book_images/klapzubova_jedenactka.jpg",
+    "title": "Klapzubova jedenáctka",
+    "description": "Klíčová slova: Humoristický román, Eduard Bass.",
+    "availability": "1"
+  },
+  {
+    "image": "book_images/hobit.jpg",
+    "title": "Hobit: Cesta tam a zase zpátky",
+    "description": "Klíčová slova: fantasy;J.K.K. Tolkien.",
+    "availability": ""
+  }
+]
